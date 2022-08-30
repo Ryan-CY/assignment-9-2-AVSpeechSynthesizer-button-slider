@@ -13,6 +13,7 @@
 		77768A3728BD9E0800FFEAC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77768A3528BD9E0800FFEAC0 /* Main.storyboard */; };
 		77768A3928BD9E0900FFEAC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77768A3828BD9E0900FFEAC0 /* Assets.xcassets */; };
 		77768A3C28BD9E0900FFEAC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77768A3A28BD9E0900FFEAC0 /* LaunchScreen.storyboard */; };
+		77B0528128BEACCF00488AFC /* ChenYuluoyan-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77B0528028BEACCF00488AFC /* ChenYuluoyan-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		77768A3828BD9E0900FFEAC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77768A3B28BD9E0900FFEAC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77768A3D28BD9E0900FFEAC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77B0528028BEACCF00488AFC /* ChenYuluoyan-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ChenYuluoyan-Thin.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		77768A2E28BD9E0800FFEAC0 /* assignment 9-2 AVSpeechSynthesizer button slider */ = {
 			isa = PBXGroup;
 			children = (
+				77B0528028BEACCF00488AFC /* ChenYuluoyan-Thin.ttf */,
 				77768A2F28BD9E0800FFEAC0 /* AppDelegate.swift */,
 				77768A3128BD9E0800FFEAC0 /* SceneDelegate.swift */,
 				77768A3328BD9E0800FFEAC0 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77768A3C28BD9E0900FFEAC0 /* LaunchScreen.storyboard in Resources */,
+				77B0528128BEACCF00488AFC /* ChenYuluoyan-Thin.ttf in Resources */,
 				77768A3928BD9E0900FFEAC0 /* Assets.xcassets in Resources */,
 				77768A3728BD9E0800FFEAC0 /* Main.storyboard in Resources */,
 			);
